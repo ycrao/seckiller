@@ -2,6 +2,9 @@
 
 > 苏宁/京东/天猫秒杀器。
 
+### 镇楼图
+
+![maotai_wine_image](image.png)
 
 ### 原理
 
