@@ -16,6 +16,6 @@
 
 ### 源码
 
-> 暂不放出，先自用。
+内测申请 [#5](https://github.com/ycrao/seckiller/issues/5)
 
 
