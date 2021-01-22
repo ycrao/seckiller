@@ -21,7 +21,7 @@
 目前计划：
 
 - 狗东船新版本
-- 桌面版🐱🐶🦁平台对时软件
+- 桌面版🐱🐶🦁平台对时软件: [命令行版](https://github.com/ycrao/seckiller/issues/8) [release](https://github.com/ycrao/seckiller/releases) GUI版本待定
 
 ### 有关知识
 
